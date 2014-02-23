@@ -156,7 +156,7 @@ __Example of Clean, Appealing Navigation__
     * Mediawiki has been coined 'challenging' to use
 
     * There are some inherent problems using an embedded  
-        editor such as CEditor, although variants are available  
+        editor such as CKEditor, although variants are available  
 
 * Search
 
