@@ -87,20 +87,6 @@ __Design should not create negative affects:__
 * Search capabilities
 
 
-__Example of Good Design, Wrong App:__
-
-* The below image is an example of something   
-    we do not want to use, it is from a bygone   
-    day when this type of image was common  
-    in the local mechanics garage calendar,   
-    and is very sexist. We want to encourage  
-    women being in this world,   
-    not discourage:
-
-![Ruby Woman](images/ruby-woman.jpg)
-
-
-
 
 __Example of Good Design:__
 
