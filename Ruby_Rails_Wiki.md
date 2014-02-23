@@ -1,6 +1,5 @@
-Analysis of Project to create a Ruby on Rails  Wiki
-===================================================
-
+Project Ruby on Rails  Wiki
+===========================
 
 Identify Vision
 ---------------
